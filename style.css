@@ -1,0 +1,6 @@
+body{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to bottom, red, white, green);
+    height: 100vh;
+}
